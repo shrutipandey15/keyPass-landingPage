@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keypass.com/sitemap.xml
+
+# Optimize crawl budget
+Crawl-delay: 1
+
+# Allow social media bots
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: twitterbot
+Allow: /
+
+User-agent: linkedinbot
+Allow: /

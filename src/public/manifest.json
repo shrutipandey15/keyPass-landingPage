@@ -1,0 +1,22 @@
+{
+  "name": "KeyPass - Offline USB Password Vault",
+  "short_name": "KeyPass",
+  "description": "Secure your passwords without the cloud. Plug it in, type instantly, stay safe.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#030213",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1599350686877-382a54114d2f?w=192&h=192&fit=crop",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1599350686877-382a54114d2f?w=512&h=512&fit=crop",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["security", "productivity", "utilities"]
+}
